@@ -1,6 +1,5 @@
 **ChatGPT Advertising Copy Generator**
 
-![ChatGPT Advertising Copy Generator](https://link.to.your/image.png)
 
 **Description:**
 
@@ -14,7 +13,7 @@ The ChatGPT Advertising Copy Generator is a simple JavaScript application that u
 
 **Demo Video:**
 
-[Accessing ChatGPt using JavaScript.mp4](https://link.to.your/demo/video)
+[Accessing ChatGPt using JavaScript.mp4](Accessing%20ChatGPt%20using%20JavaScript.mp4)
 
 **How to Use:**
 
