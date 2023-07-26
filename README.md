@@ -40,13 +40,9 @@ To get started with this project, you will need the following:
 
 2. Replace `YOUR_API_KEY` in `script.js` with your actual OpenAI GPT-3 API key.
 
-**Contributing:**
+**Acknowledgement:**
 
-Contributions are welcome! Feel free to open issues and pull requests to improve the application.
-
-**License:**
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as per the terms of the license.
+Thanks to AI course by Scrimba ! loved it 
 
 **Disclaimer:**
 
